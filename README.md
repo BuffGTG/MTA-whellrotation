@@ -1,3 +1,2 @@
-# MTA-whellrotation
-Araçtan indiğinizde teker hangi yöne bakıyorsa öyle kalıyor
+# MTA-whellrottion
 MAHLUKAT'a  Teşekkürler.
