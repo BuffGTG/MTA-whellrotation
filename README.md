@@ -1,2 +1,2 @@
 # MTA-whellrottion
-MAHLUKAT'a  Teşekkürler.
+Mahlukat'a teşekkür
